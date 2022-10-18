@@ -1,6 +1,7 @@
 # Students Tracking System
 
 A new Flutter project.
+![Ekran görüntüsü 2022-10-18 142240](https://user-images.githubusercontent.com/45715397/196416497-6bc8666b-76f4-43a9-bb3b-f32b09b74b54.png)
 
 ## Getting Started
 
