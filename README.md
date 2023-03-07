@@ -1,5 +1,9 @@
 # Students Tracking System
 
+It is a Mobile application where students can register to the system, check their education status for students, where their grades from the lessons and the status of passing the course can be seen. I developed the application using Dart and Flutter.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A new Flutter project.
 ![Ekran görüntüsü 2022-10-18 142240](https://user-images.githubusercontent.com/45715397/196416497-6bc8666b-76f4-43a9-bb3b-f32b09b74b54.png)
 ![2Ekran görüntüsü 2022-10-18 142312](https://user-images.githubusercontent.com/45715397/196416711-a490d32a-7057-4f6e-a65e-191f8ce53fe9.png)
